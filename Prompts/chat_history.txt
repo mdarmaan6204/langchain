@@ -1,0 +1,4 @@
+human
+I want to request a refund for my order #1234
+ai
+Your refund process is initiated and it will be processed within 3-5 working days
